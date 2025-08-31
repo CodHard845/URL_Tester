@@ -1,22 +1,22 @@
-# 🌐 Vérificateur d’Accessibilité d’URL
+# 🌐 URL Accessibility Checker
 
-Ce script Python permet de vérifier si une URL est accessible en ligne ou non.  
-Idéal pour tester rapidement la disponibilité d’un site web ou d’une API !
+This Python script allows you to check whether a URL is accessible online or not.  
+Ideal for quickly testing the availability of a website or API!
 
-## 🚀 Utilisation
+## 🚀 Usage
 
-1. Lance le script :
+1. Run the script:
    ```bash
    python3 URL_Tester.py
    ```
-2. Entre l’URL à tester (avec http:// ou https://).
+2. Enter the URL to be tested (with http:// or https://).
 
-## ✅ Résultats possibles
+## ✅ Possible results
 
-- **✅ URL accessible** : Le site répond correctement.
-- **❌ URL hors ligne** : Le site ne répond pas ou est inaccessible.
-- **⚠️ Autre code** : Le site répond, mais avec un code différent (ex : 404, 500…).
+- **✅ URL accessible**: The site responds correctly.
+- **❌ URL offline**: The site does not respond or is inaccessible.
+- **⚠️ Other code**: The site responds, but with a different code (e.g., 404, 500, etc.).
 
 ---
 
-> Script simple pour s’initier à l’automatisation et à la cybersécurité avec Python
+> Simple script to learn about automation and cybersecurity with Python
