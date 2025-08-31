@@ -7,7 +7,7 @@ Idéal pour tester rapidement la disponibilité d’un site web ou d’une API�
 
 1. Lance le script :
    ```bash
-   python3 import\ requests.py
+   python3 URL_Tester.py
    ```
 2. Entre l’URL à tester (avec http:// ou https://).
 
